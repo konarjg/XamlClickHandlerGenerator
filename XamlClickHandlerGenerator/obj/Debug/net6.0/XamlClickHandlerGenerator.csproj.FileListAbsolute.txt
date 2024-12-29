@@ -1,0 +1,14 @@
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.AssemblyInfoInputs.cache
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.AssemblyInfo.cs
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.csproj.CoreCompileInputs.cache
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\bin\Debug\net6.0\XamlClickHandlerGenerator.exe
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\bin\Debug\net6.0\XamlClickHandlerGenerator.deps.json
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\bin\Debug\net6.0\XamlClickHandlerGenerator.runtimeconfig.json
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\bin\Debug\net6.0\XamlClickHandlerGenerator.dll
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\bin\Debug\net6.0\XamlClickHandlerGenerator.pdb
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.dll
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\refint\XamlClickHandlerGenerator.dll
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.pdb
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\XamlClickHandlerGenerator.genruntimeconfig.cache
+C:\Users\konis\Desktop\Manage IT\XamlClickHandlerGenerator\XamlClickHandlerGenerator\obj\Debug\net6.0\ref\XamlClickHandlerGenerator.dll

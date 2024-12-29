@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlClickHandlerGenerator", "XamlClickHandlerGenerator\XamlClickHandlerGenerator.csproj", "{76FDBD46-135A-438D-AE75-3A8FE40523BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlClickHandlerGeneratorTests", "XamlClickHandlerGeneratorTests\XamlClickHandlerGeneratorTests.csproj", "{88ECE3BE-43DD-4A8B-915E-B2816AE3C8E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FDBD46-135A-438D-AE75-3A8FE40523BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FDBD46-135A-438D-AE75-3A8FE40523BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FDBD46-135A-438D-AE75-3A8FE40523BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FDBD46-135A-438D-AE75-3A8FE40523BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ECE3BE-43DD-4A8B-915E-B2816AE3C8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ECE3BE-43DD-4A8B-915E-B2816AE3C8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ECE3BE-43DD-4A8B-915E-B2816AE3C8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ECE3BE-43DD-4A8B-915E-B2816AE3C8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD10A009-3AD3-45CC-9A32-C76B8580F428}
+	EndGlobalSection
+EndGlobal
