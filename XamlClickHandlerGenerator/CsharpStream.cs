@@ -23,12 +23,23 @@ namespace XamlClickHandlerGenerator
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            Writer.Flush();
+            Writer.Close();
+            Writer.Dispose();
         }
 
-        public Task<bool> WriteLineAsync(string line)
+        public async Task<bool> WriteLineAsync(string? line)
         {
-            throw new NotImplementedException();
+            try
+            {
+                await Writer.WriteLineAsync(line);
+                await Writer.FlushAsync();
+                return true;
+            }
+            catch(Exception)
+            {
+                return false;
+            }
         }
     }
 }

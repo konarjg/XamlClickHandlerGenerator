@@ -23,7 +23,7 @@ namespace XamlClickHandlerGeneratorTests
         }
 
         [TestMethod]
-        public void DisposeStreamReaderShouldBeNull()
+        public void DisposeStreamShouldThrowObjectDisposedException()
         {
             var stream = new XamlStream();
             stream.Reader = new StreamReader(TestXaml.ToStream());

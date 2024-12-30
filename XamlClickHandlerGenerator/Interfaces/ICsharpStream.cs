@@ -11,6 +11,6 @@ namespace XamlClickHandlerGenerator.Interfaces
         public StreamWriter Writer { get; set; }
 
         public void OpenStream(Stream stream);
-        public Task<bool> WriteLineAsync(string line);
+        public Task<bool> WriteLineAsync(string? line);
     }
 }

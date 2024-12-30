@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace XamlClickHandlerGenerator.Interfaces
 {
-    public interface IClickHandlerGenerator
+    public interface IClickHandlerGenerator : IDisposable
     {
         public IXamlStream InputStream { get; set; }
         public ICsharpStream OutputStream { get; set; }

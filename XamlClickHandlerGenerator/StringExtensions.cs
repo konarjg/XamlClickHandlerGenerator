@@ -10,7 +10,20 @@ namespace XamlClickHandlerGenerator
     {
         public static MemoryStream ToStream(this string value)
         {
-            return new MemoryStream(Encoding.UTF8.GetBytes(value ?? ""));
+            var buffer = Encoding.UTF8.GetBytes(value);
+            var stream = new MemoryStream();
+            stream.Write(buffer, 0, buffer.Length);
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        public static string FromStream(this Stream stream)
+        {
+            using (var reader = new StreamReader(stream))
+            {
+                return reader.ReadToEnd();
+            }
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ixr3mzVM5pPeq3Qgqm6/bO2RTeinjRr1Koi20peudxtSR7u+338OIcCLE2Rk0vxGPqT9HlACTOLesgXVTy/hw==",
+  "dgSpecHash": "BiEJofkxdk8f370PUm3qOTZxAUU6wf6QSKM9LZLBJTUTbYS2bIJr39/posHAezTJxvRlGsWrI1QrW67Dv0XEBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\konis\\Desktop\\Manage IT\\XamlClickHandlerGenerator\\XamlClickHandlerGeneratorTests\\XamlClickHandlerGeneratorTests.csproj",
+  "projectFilePath": "C:\\Users\\konis\\Desktop\\Xaml Click Handler Generator\\XamlClickHandlerGeneratorTests\\XamlClickHandlerGeneratorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\konis\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\konis\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
